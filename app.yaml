@@ -1,0 +1,8 @@
+runtime: nodejs16
+env_variables:
+  EXPIRESIN: 86400
+  SECRETKEY: secret123n
+  DB_HOST: 34.88.171.183
+  DB_USERNAME: root
+  DB_PASSWORD: Netsol12
+  DB_DATABASE: items
