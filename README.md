@@ -25,6 +25,8 @@
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+## environment variables
+I have defined environment variables inside the file .env so please update .env file with those variables to run it on local as i have just removed the keys.
 
 ## Installation
 
